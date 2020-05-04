@@ -11,7 +11,7 @@ public class StringApproximation {
 
 	public static void main(String[] args) {
 			
-var list1 = new ArrayList<String>() ;  list1.add("zunayeed");list1.add("zinia"); list1.add("nusrat");list1.add("parveen");list1.add("mostafa"); var list2= new ArrayList<String>() ;   list2.add("zunayeeeeeed");	 list2.add("ziniaa");list2.add("nusrsat");list2.add("parveenpp");list2.add("aamostafa");
+var list1 = new ArrayList<String>() ;  list1.add("zunasdfyeed");list1.add("sdinia"); list1.add("snsxussrfat");list1.add("xpcvaxxrveevdn");list1.add("mostafa"); var list2= new ArrayList<String>() ;   list2.add("zunayeeeeeed");	 list2.add("zxzzindfsdiaa");list2.add("nzczusrsat");list2.add("zfdfparvvfxceenpp");list2.add("aazxvmoscvtafa");
 		
 		System.out.println( Arrays.toString(approximateSum(list1, list2)) );
 	} // end og main method
