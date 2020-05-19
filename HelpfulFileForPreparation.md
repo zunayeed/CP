@@ -1,0 +1,1 @@
+ -    [An awesome list for competitive programming](https://codeforces.com/blog/entry/23054)
