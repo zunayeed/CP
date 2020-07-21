@@ -8,4 +8,4 @@ This repository is for problem solving
 - [Count triplests Hackerrank Solution](https://www.youtube.com/watch?v=tBFZMaWP0W8)
 - [running median calculation using queues](https://www.youtube.com/watch?v=VmogG01IjYc)
 - [fradulent activity notification using counting sort](https://jjromi.github.io/2017/lucky_45/) this problem can be solved using priority queue concepts with hackerrank video
-  - [counting sort algorithm luckys video-code need to be written](https://www.youtube.com/watch?v=pEJiGC-ObQE)
+  - [counting sort algorithm luckys video-code need to be written with links](https://www.youtube.com/watch?v=pEJiGC-ObQE)
