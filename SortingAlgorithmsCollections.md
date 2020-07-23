@@ -1,3 +1,4 @@
+# Merge Sorting 
 ```java 
 // function to merge Arrays L and R into A
 // leftCount = number of elements in L
