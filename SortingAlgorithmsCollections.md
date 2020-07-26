@@ -1,3 +1,5 @@
+#Table of Contents: 
+   1. [Merge Sort Algorithm](https://github.com/zunayeed/Competitive-Programming/blob/master/SortingAlgorithmsCollections.md#merge-sorting)
 # Merge Sorting 
 ```java 
 // function to merge Arrays L and R into A
