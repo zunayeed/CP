@@ -11,7 +11,8 @@ Table of Contents:
   3. __find first character__ with non-zero frequency1 and set countFrequency1 to 0 and break the loop once countFrequency1 is 1.
   4. traverse from the next index. Find a character with different frequency(frequency2) from frequency1, and count the number of times both frequencies(frequency1 and frequency2) occur until(break or exit loop) getting different frequency. In other words, increment countFrequency1 and countFrequency2. 
   5. Keep counting and look for another non-zero frequency. If we find a third non-zero frequency, or count of both the frequencies(countFrequency1 and countFrequency2) become greater than 1, return NO. 
-  ```java 
+  
+``java 
   / Java program to check if a string can be made 
 // valid by removing at most 1 character. 
 public class Test { 
