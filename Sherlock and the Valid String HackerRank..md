@@ -13,7 +13,7 @@ Table of Contents:
   5. Keep counting and look for another non-zero frequency. If we find a third non-zero frequency, or count of both the frequencies(countFrequency1 and countFrequency2) become greater than 1, return NO. 
   
 ``java 
-  / Java program to check if a string can be made 
+// Java program to check if a string can be made 
 // valid by removing at most 1 character. 
 public class Test { 
   
@@ -40,8 +40,7 @@ public class Test {
                 count_freq1 = 1; 
                 break; 
             } 
-        } 
-  
+        }   
         // Find a character with frequency different 
         // from freq1. 
         int j, freq2 = 0, count_freq2 = 0; 
@@ -55,8 +54,7 @@ public class Test {
                     break; 
                 } 
             } 
-        } 
-  
+        }   
         // If we find a third non-zero frequency 
         // or count of both frequencies become more 
         // than 1, then return false 
@@ -82,7 +80,6 @@ public class Test {
         // Return true if we reach here 
         return true; 
     } 
-  
 // Driver code 
     public static void main(String[] args) { 
         String str = "abcbc"; 
