@@ -12,7 +12,7 @@ Table of Contents:
   4. traverse from the next index. Find a character with different frequency(frequency2) from frequency1, and count the number of times both frequencies(frequency1 and frequency2) occur until(break or exit loop) getting different frequency. In other words, increment countFrequency1 and countFrequency2. 
   5. Keep counting and look for another non-zero frequency. If we find a third non-zero frequency, or count of both the frequencies(countFrequency1 and countFrequency2) become greater than 1, return NO. 
   
-``java 
+```java 
 // Java program to check if a string can be made 
 // valid by removing at most 1 character. 
 public class Test {   
