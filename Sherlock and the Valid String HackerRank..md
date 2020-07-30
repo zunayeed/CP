@@ -15,11 +15,9 @@ Table of Contents:
 ``java 
 // Java program to check if a string can be made 
 // valid by removing at most 1 character. 
-public class Test { 
-  
+public class Test {   
 // Assuming only lower case characters 
-    static final int CHARS = 26; 
-  
+    static final int CHARS = 26;   
     /* To check a string S can be converted to a “valid” 
    string by removing less than or equal to one 
    character. */
