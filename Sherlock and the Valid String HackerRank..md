@@ -90,3 +90,69 @@ public class Test {
     } 
 } 
 ```
+-----------------------------------------
+``` java
+\\ solution using hashMap
+package zun.java.basics.practice3;
+import java.util.HashMap; 
+import java.util.Iterator; 
+import java.util.Map; 
+  
+public class AllCharsWithSameFrequencyWithOneVarAllowed { 
+      
+	// Complete the isValid function below.
+    static String isValid(String s) {
+        if(s == null || s.isEmpty()){
+            return "YES";
+        }
+        Map<Character,Integer> map = new HashMap<>();
+    for(int i=0; i<s.length();i++){
+        map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+    }
+    Iterator<Integer> itr = map.values().iterator();
+    boolean first = true, second = true ; 
+    int frequency1 = 0 , frequency2 = 0;
+    int countFrequency1 =0, countFrequency2=0;
+    while(itr.hasNext()){
+        int i = itr.next();
+        // if first is true, countFrequency1 is increased
+        if(first){
+            frequency1 = i ; 
+            first = false; 
+            countFrequency1++;
+            continue;
+        }
+        if(i== frequency1){
+            countFrequency1++; 
+            continue;
+        }
+        // if second is true, countFrequency2 is increased 
+        if(second){
+            frequency2 = i; 
+            countFrequency2++; 
+            second = false;
+            continue; 
+        }
+        if(i==frequency2){
+            countFrequency2++;
+            continue;
+        }
+        return "NO";
+    }
+         if(countFrequency1 > 1 && countFrequency2 > 1) { 
+            return "NO"; 
+          }else { 
+            return "YES"; 
+        } 
+
+    }
+
+      
+    // Driver code 
+    public static void main(String[] args) 
+    { 
+              
+        System.out.println(isValid("aaaabbcc")); 
+    } 
+} 
+```
