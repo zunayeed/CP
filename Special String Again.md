@@ -1,4 +1,5 @@
 # Special Srting again
+  - [Special Sring again HackerRank](https://www.hackerrank.com/challenges/special-palindrome-again/copy-from/171893640?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
 ```java
 static long substrCount(int n, String s) {
 	    // initialize counter to n because each character is a
