@@ -1,3 +1,4 @@
+#
 ```java
 static long substrCount(int n, String s) {
 	    // initialize counter to n because each character is a
