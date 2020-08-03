@@ -5,8 +5,9 @@
     - LCS most efficient is one dimentional 
       1. LCS two dimentional is good too, but one dimentional is tricky.
       2. LCS 
-      
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+ # task list      
+- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
-- [ ] this is an incomplete item     
+- [ ] this is an incomplete item    
+- [ ] LCS one dimentional
