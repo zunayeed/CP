@@ -1,2 +1,3 @@
 - [Longest Common Subsequence YoutubeLink](https://www.youtube.com/watch?v=DuikFLPt8WQ)
   - Last part is still not clear, [another link of tushar LCS](https://www.youtube.com/watch?v=NnD96abizww)
+  - [Helpful github solution for LCS](https://gist.github.com/kanahaiya/0a880436bb19c8cdf268b220ec1cb1b0)
