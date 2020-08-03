@@ -1,7 +1,7 @@
 
 Table of Contents: 
 1. Sherlock and the Valid String of HackerRank Algorithm
-   - follow third approach(best approach)
+   - follow third approach(best approach) but I gives wrong result, and still need to be modified
 
 
 - [Sherlock and the Valid String of HackerRank](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
@@ -157,6 +157,7 @@ public class AllCharsWithSameFrequencyWithOneVarAllowed {
     } 
 } 
 ```
+------------------------------------------------------------------------------------------------------
 ```java
 // Complete the isValid function below.
     static String isValid(String s) {
