@@ -157,4 +157,30 @@ public class AllCharsWithSameFrequencyWithOneVarAllowed {
     } 
 } 
 ```
+```java
+// Complete the isValid function below.
+    static String isValid(String s) {
+        Map<Character,Integer> map = new HashMap<>();
+    for(int i=0; i<s.length();i++){
+        map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+    }
+
+      List<Integer> mapValues = new ArrayList(map.values());
+    int max = (int)Collections.max(mapValues);
+    int min = (int)Collections.min(mapValues);
+      
+     if(min==max) return "YES"; 
+     int min_count=0, max_count=0 ;  
+     for(int i=0; i<mapValues.size();i++){
+         if(mapValues.get(i)== max){
+             max_count++;
+         }
+         if(mapValues.get(i)== min){
+             min_count++;
+         }
+     }
+     return (min_count==1||(max_count==1 && max== min+1))? "YES":"NO";
+
+    } // end of isValid method
+```
 
