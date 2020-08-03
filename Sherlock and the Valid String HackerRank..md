@@ -1,6 +1,7 @@
 
 Table of Contents: 
 1. Sherlock and the Valid String of HackerRank Algorithm
+   - follow third approach(best approach)
 
 
 - [Sherlock and the Valid String of HackerRank](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
@@ -156,3 +157,4 @@ public class AllCharsWithSameFrequencyWithOneVarAllowed {
     } 
 } 
 ```
+
