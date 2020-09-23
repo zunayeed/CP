@@ -13,3 +13,4 @@ __This repository is for problem solving__
 - [Prime number: why do we check until sqrt of a number](http://www.counton.org/explorer/primes/checking-if-a-number-is-prime/)
 - [magic number](https://introcs.cs.princeton.edu/java/14array/MagicSquare.java.html)
   - [hackerEarth magic square](https://www.hackerearth.com/practice/notes/magic-square/)
+  - [magic square hackerrank solve](https://devalice.tistory.com/category/1%20Day%201%20Algorithms)
