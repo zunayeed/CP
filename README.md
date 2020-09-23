@@ -11,3 +11,4 @@ __This repository is for problem solving__
   - [counting sort algorithm luckys video-code need to be written with links](https://www.youtube.com/watch?v=pEJiGC-ObQE)
 - [SubArray Sum Stanford Link](https://web.stanford.edu/class/cs9/sample_probs/SubarraySums.pdf)
 - [Prime number: why do we check until sqrt of a number](http://www.counton.org/explorer/primes/checking-if-a-number-is-prime/)
+- [magic number](https://introcs.cs.princeton.edu/java/14array/MagicSquare.java.html)
