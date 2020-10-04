@@ -37,4 +37,4 @@ if cycle is odd, that means the tree will be doubled again.
 This is another fomulation using NOT instead
 ~(~1<<(n>>1)) << n%2
 ```
-[Editorial of Hackers how inversions contribute in Larry's Array](https://www.hackerrank.com/challenges/larrys-array/editorial)
+2. [Editorial of Hackers how inversions contribute in Larry's Array](https://www.hackerrank.com/challenges/larrys-array/editorial)
