@@ -14,4 +14,4 @@ __This repository is for problem solving__
 - [magic number](https://introcs.cs.princeton.edu/java/14array/MagicSquare.java.html)
   - [hackerEarth magic square](https://www.hackerearth.com/practice/notes/magic-square/)
   - [magic square hackerrank solve](https://devalice.tistory.com/71)
--[journey to the moon hackerrank graph solution](https://abskmj.github.io/notes/posts/solutions/hackerrank/algorithms/graph-theory/journey-to-the-moon/)
+- [journey to the moon hackerrank graph solution](https://abskmj.github.io/notes/posts/solutions/hackerrank/algorithms/graph-theory/journey-to-the-moon/)
